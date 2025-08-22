@@ -55,6 +55,10 @@ ________________________________________
 •	Router CLI configuration<br>
 •	IP configurations on PCs<br>
 •	Successful ping between PC0 and PC1<br>
+<img width="1919" height="1079" alt="478941057-fcb7b6de-713a-4fe8-a3e3-067564dbf16e" src="https://github.com/user-attachments/assets/3efccde5-1553-4927-a126-baee4a03cdfe" />
+<img width="1916" height="1079" alt="478941276-bac397fc-384e-498f-84d7-00cabaa62947" src="https://github.com/user-attachments/assets/56fc40c1-b2cd-479c-ae7a-ef8d4cc76dcc" />
+<img width="1919" height="1079" alt="478941332-5ae3c8c2-c599-4f86-879c-3cc0ef39770a" src="https://github.com/user-attachments/assets/740948b9-9ff1-4784-88cd-ea66a8e5492f" />
+
 ________________________________________
 # Result
 Successfully configured a router to connect two LANs. Communication between PC0 and PC1 across different networks was tested and verified.
